@@ -1,0 +1,66 @@
+body{
+	background:linear-gradient(#FFF0F5,#4B0082);
+	justify-content: center;
+	align-content: center;
+
+}
+div{
+	height: 300px;
+	width: 400px;
+	border-width:3px ;
+	border-style: solid;
+	border-color: black;
+	border-radius: 10px;
+	padding: 70px;
+	margin-right: 5px;
+	margin-left: 5px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	box-align: center;
+	color: black;
+	background-color: white;
+}
+
+h1{
+	text-align: center;
+	text-decoration: none;
+	color: crimson;
+	margin-top: 5px;
+}
+h2{
+	text-align: left;
+}
+ol{
+	text-align: left;
+	font-family: calibri;
+	font-size: 18px;
+}
+input[type="submit"]{
+	text-align: center;
+	background-color:crimson;
+	color: white;
+	font-size: 25px;
+	font-family: calibri;
+	margin-top: 16px;
+	margin-bottom: 16px;
+	border-color: black;
+	text-decoration: none;
+}
+input[type="text"]{
+	text-align: left;
+	color: black;
+	font-size: 20px;
+	
+}
+input[type="Email"]{
+	text-align: left;
+	color: black;
+	font-size: 20px;
+
+}
+input[type="Password"]{
+	text-align: left;
+	color: black;
+	font-size: 20px;
+}
+
