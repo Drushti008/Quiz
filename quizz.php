@@ -3,7 +3,7 @@
 <html>
 <head>
 	<meta charset="UTF-8">
-	<link rel="stylesheet" type="text/css" href="quizz.css">
+	<link rel="stylesheet" type="text/css" href="quizz.css"/>
 </head>
 <body>
 	<center>
@@ -26,7 +26,7 @@
 		
 
 		<a href="quizz1.php">
-		<input type="submit" value="next ->" name="btn_next"></a>
+		<input type="submit" value="next ->" name="btn_next"/></a>
 
 
 
