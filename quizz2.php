@@ -61,53 +61,53 @@
 		
 
 			
-			<input type="radio" name="question1" value="a">Venus<br/>
+			<input type="radio" name="question1" value="a"/>Venus<br/>
 
             </td><td>
-			<input type="radio" name="question1" value="b">Mars<br/>
+			<input type="radio" name="question1" value="b"/>Mars<br/>
 			
 
-			<input type="radio" name="question1" value="c">Jupiter<br/>
+			<input type="radio" name="question1" value="c"/>Jupiter<br/>
 
-			<input type="radio" name="question1" value="d">Saturn<br/>
+			<input type="radio" name="question1" value="d"/>Saturn<br/>
 
 		</tr>
 
 			<h3>Q2. What is the chemical symbol for water?<br/></h3>
 
-			<input type="radio" name="question2" value="a">O2<br/>
+			<input type="radio" name="question2" value="a"/>O2<br/>
 
-			<input type="radio" name="question2" value="b">NaCl<br/>
+			<input type="radio" name="question2" value="b"/>NaCl<br/>
 
-			<input type="radio" name="question2" value="c">CO2<br/>
+			<input type="radio" name="question2" value="c"/>CO2<br/>
 
-			<input type="radio" name="question2" value="d">H2O<br/>
+			<input type="radio" name="question2" value="d"/>H2O<br/>
 
 			<h3>Q3. What is the process by which plants make their food?<br/></h3>
 
-			<input type="radio" name="question3" value="a">Respiration<br/>
+			<input type="radio" name="question3" value="a"/>Respiration<br/>
 
 			<input type="radio" name="question3" value="b">Digestion<br/>
 
-			<input type="radio" name="question3" value="c">Photosynthesis<br/>
+			<input type="radio" name="question3" value="c"/>Photosynthesis<br/>
 
-			<input type="radio" name="question2" value="d">Fermentation<br/>
+			<input type="radio" name="question2" value="d"/>Fermentation<br/>
 
 			<h3>Q4. Who was the first president of United States? <br/></h3>
 
-			<input type="radio" name="question4" value="a">George Washington<br/>
+			<input type="radio" name="question4" value="a"/>George Washington<br/>
 
-			<input type="radio" name="question4" value="b">Thomas Jefferson<br/>
+			<input type="radio" name="question4" value="b"/>Thomas Jefferson<br/>
 
-			<input type="radio" name="question4" value="c">Abraham Lincoln<br/>
+			<input type="radio" name="question4" value="c"/>Abraham Lincoln<br/>
 
-			<input type="radio" name="question4" value="d">John Adams<br/>
+			<input type="radio" name="question4" value="d"/>John Adams<br/>
 
 			<br/><br/>
 
     
             <center><a href="quizz3.php">
-			<input type="submit" name="btn_next" value="Submit"></a></center>
+			<input type="submit" name="btn_next" value="Submit"/></a></center>
 
 		</form>
 
