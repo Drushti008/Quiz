@@ -63,7 +63,7 @@
 			
 			<input type="radio" name="question1" value="a"/>Venus<br/>
 
-            </td><td>
+         
 			<input type="radio" name="question1" value="b"/>Mars<br/>
 			
 
@@ -71,7 +71,7 @@
 
 			<input type="radio" name="question1" value="d"/>Saturn<br/>
 
-		</tr>
+
 
 			<h3>Q2. What is the chemical symbol for water?<br/></h3>
 
