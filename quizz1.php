@@ -1,6 +1,6 @@
 <html>
 <head>
-	<link rel="stylesheet" type="text/css" href="quizz.css">
+	<link rel="stylesheet" type="text/css" href="quizz.css"/>
 </head>
 <body>
 	<center>
@@ -35,7 +35,7 @@
 			<tr>
 				<td></td>
 				<a href="quizz2.php">
-				<td><input type="submit" value="next ->"></td></a>
+				<td><input type="submit" value="next ->"/></td></a>
 			</tr>
 		
 		</table>
